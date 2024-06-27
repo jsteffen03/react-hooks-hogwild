@@ -5,8 +5,7 @@ const hogs = [
     greased: false,
     weight: 2.0,
     "highest medal achieved": "bronze",
-    image:
-      "https://raw.githubusercontent.com/learn-co-curriculum/react-hooks-hogwild/master/public/images/babe.jpg",
+    image: "https://raw.githubusercontent.com/learn-co-curriculum/react-hooks-hogwild/master/public/images/babe.jpg",
   },
   {
     name: "Porkchop",
